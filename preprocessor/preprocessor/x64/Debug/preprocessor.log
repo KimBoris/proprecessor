@@ -1,0 +1,6 @@
+﻿  main.c
+  test.c
+C:\Users\BBORIS\Documents\GitHub\proprecessor\preprocessor\preprocessor\test.c(5,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+test.obj : error LNK2019: printfTestFunc 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\BBORIS\Documents\GitHub\proprecessor\preprocessor\x64\Debug\preprocessor.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
